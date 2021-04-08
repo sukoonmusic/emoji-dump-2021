@@ -9,30 +9,30 @@ Open a PR for approval + merging 🙏
 
 Completed so far:
 
-#
-A
-B
-C
-D
-E
-F
-G
-H
-I
-J
-K
-L
-M
-N
-O
-P
-Q
-R
-S
-T
-U
-V
-W
-X
-Y
-Z
+- [x] #
+- [x] A
+- [ ] B
+- [ ] C
+- [ ] D
+- [ ] E
+- [ ] F
+- [ ] G
+- [ ] H
+- [ ] I
+- [ ] J
+- [ ] K
+- [ ] L
+- [ ] M
+- [ ] N
+- [ ] O
+- [ ] P
+- [ ] Q
+- [ ] R
+- [ ] S
+- [x] T
+- [x] U
+- [x] V
+- [x] W
+- [x] X
+- [x] Y
+- [x] Z
