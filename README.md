@@ -27,7 +27,7 @@ Completed so far:
 - [ ] O
 - [ ] P
 - [ ] Q
-- [ ] R
+- [x] R
 - [x] S
 - [x] T
 - [x] U
