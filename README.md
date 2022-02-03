@@ -19,7 +19,7 @@ Completed so far:
 - [ ] G
 - [ ] H
 - [ ] I
-- [ ] J
+- [x] J
 - [x] K
 - [ ] L
 - [ ] M
