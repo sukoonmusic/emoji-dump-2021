@@ -13,7 +13,7 @@ Completed so far:
 - [x] A
 - [ ] B
 - [ ] C
-- [ ] D
+- [x] D
 - [ ] E
 - [ ] F
 - [ ] G
@@ -24,7 +24,7 @@ Completed so far:
 - [ ] L
 - [ ] M
 - [ ] N
-- [ ] O
+- [x] O
 - [ ] P
 - [ ] Q
 - [ ] R
