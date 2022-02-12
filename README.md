@@ -11,7 +11,7 @@ Completed so far:
 
 - [x] #
 - [x] A
-- [ ] B
+- [x] B
 - [ ] C
 - [x] D
 - [ ] E
