@@ -15,7 +15,7 @@ Completed so far:
 - [ ] C
 - [x] D
 - [x] E
-- [ ] F
+- [x] F
 - [ ] G
 - [ ] H
 - [ ] I
