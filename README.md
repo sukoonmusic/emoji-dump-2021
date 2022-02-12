@@ -12,7 +12,7 @@ Completed so far:
 - [x] #
 - [x] A
 - [ ] B
-- [ ] C
+- [x] C
 - [x] D
 - [x] E
 - [ ] F
