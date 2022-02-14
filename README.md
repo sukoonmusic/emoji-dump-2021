@@ -12,13 +12,15 @@ Completed so far:
 - [x] #
 - [x] A
 - [ ] B
-- [ ] C
+- [x] C
 - [x] D
 - [x] E
 - [ ] F
 - [ ] G
 - [x] H
 - [ ] I
+- [ ] H
+- [x] I
 - [x] J
 - [x] K
 - [ ] L
