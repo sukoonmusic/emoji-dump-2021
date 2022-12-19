@@ -15,6 +15,8 @@ Completed so far:
 - [x] C
 - [x] D
 - [x] E
+- [x] F
+- [ ] G
 - [ ] F
 - [x] G
 - [ ] H
@@ -31,7 +33,6 @@ Completed so far:
 - [x] O
 - [x] P
 - [x] Q
-- [ ] R
 - [x] R
 - [x] S
 - [x] T
