@@ -12,13 +12,19 @@ Completed so far:
 - [x] #
 - [x] A
 - [x] B
-- [ ] C
+- [x] C
 - [x] D
 - [x] E
-- [ ] F
+- [x] F
 - [ ] G
+- [ ] F
+- [x] G
 - [ ] H
+- [ ] G
+- [x] H
 - [ ] I
+- [ ] H
+- [x] I
 - [x] J
 - [x] K
 - [ ] L
@@ -27,7 +33,6 @@ Completed so far:
 - [x] O
 - [x] P
 - [x] Q
-- [ ] R
 - [x] R
 - [x] S
 - [x] T
