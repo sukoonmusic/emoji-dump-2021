@@ -21,9 +21,9 @@ Completed so far:
 - [x] I
 - [x] J
 - [x] K
-- [ ] L
-- [X] M
-- [ ] N
+- [x] L
+- [x] M
+- [x] N
 - [x] O
 - [x] P
 - [x] Q
