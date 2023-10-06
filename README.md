@@ -21,7 +21,7 @@ Completed so far:
 - [x] I
 - [x] J
 - [x] K
-- [ ] L
+- [x] L
 - [ ] M
 - [ ] N
 - [x] O
